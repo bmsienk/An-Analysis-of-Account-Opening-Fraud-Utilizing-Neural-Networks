@@ -3,4 +3,4 @@
 # Repository Structure
 
 * [Notebooks](./Notebooks)
-  * [Data Prep](./Notebooks/01 - Data Prep)
+  * [Data Prep](./Notebooks/`01 - Data Prep`)
