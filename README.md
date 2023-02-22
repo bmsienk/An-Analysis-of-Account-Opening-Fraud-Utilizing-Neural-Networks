@@ -2,7 +2,7 @@
 
 # Repository Structure
 
-* [Notebooks](./Notebooks)
+* [Notebooks](./Notebooks) #Contains all jupyter notebooks utilized for this project
   * [Data Prep](./Notebooks/01-DataPrep)
   * [Data Modelling (Base)](./Notebooks/02-DataModelling(Base))
   * [Data Modelling (Variant I)](./Notebooks/03-DataModelling(VariantI))
