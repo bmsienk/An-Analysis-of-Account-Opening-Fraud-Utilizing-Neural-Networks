@@ -12,34 +12,6 @@
   * [Data Modelling (Variant V)](./Notebooks/07-DataModelling(VariantV))
   * [Final Model Results and Analysis](./Notebooks/08-FinalModelResultsAnalysis)
 
----
-nocite: "[@*]"
-references:
-- author:
-  - family: Jesus
-    given: Sérgio
-  - family: Pombal
-    given: José
-  - family: Alves
-    given: Duarte
-  - family: Cruz
-    given: André
-  - family: Saleiro
-    given: Pedro
-  - family: Ribeiro
-    given: Rita P.
-  - family: Gama
-    given: João
-  - family: Bizarro
-    given: Pedro
-  doi: 10.48550/ARXIV.2211.13358
-  id: "https://doi.org/10.48550/arxiv.2211.13358"
-  issued: 2022
-  keyword: "Machine Learning (cs.LG), FOS: Computer and information
-    sciences, FOS: Computer and information sciences"
-  publisher: arXiv
-  title: "Turning the tables: Biased, imbalanced, dynamic tabular
-    datasets for ML evaluation"
-  title-short: Turning the tables
-  url: "https://arxiv.org/abs/2211.13358"
----
+## Citing Work
+
+* **Jesus, Sérgio and Pombal, José and Alves, Duarte and Cruz, André and Saleiro, Pedro and Ribeiro, Rita P. and Gama, João and Bizarro, Pedro**. *Turning the Tables: Biased, Imbalanced, Dynamic Tabular Datasets for ML Evaluation*. arXiv (2022). [](https://doi.org/10.48550/arxiv.2211.13358).
